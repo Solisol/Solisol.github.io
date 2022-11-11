@@ -25,6 +25,14 @@ theme = "loveit"
     title = ""
   [[menu.main]]
     weight = 2
+    identifier = "talks"
+    pre = ""
+    post = ""
+    name = "Talks"
+    url = "/talks/"
+    title = ""
+  [[menu.main]]
+    weight = 3
     identifier = "tags"
     pre = ""
     post = ""
@@ -32,7 +40,7 @@ theme = "loveit"
     url = "/tags/"
     title = ""
   [[menu.main]]
-    weight = 3
+    weight = 4
     identifier = "categories"
     pre = ""
     post = ""
