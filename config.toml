@@ -190,6 +190,7 @@ theme = "loveit"
     GitHub = "solisol"
     Linkedin = "anderssonjessica"
     Twitter = "solidtubez"
+    Mastodon = "https://hachyderm.io/@solidtubez"
 
 # LoveIt CHANGED | 0.2.0 Page global config
   [params.page]
