@@ -1,7 +1,7 @@
 ---
 title: "How We Revolutionized Developer Experience With 3.5 Platform Engineers @ KubeCon + CloudNativeCon NA 2022"
 date: 2022-10-26T10:22:43+01:00
-draft: true
+draft: false
 tags: ["conference", "talks"]
 ---
 
