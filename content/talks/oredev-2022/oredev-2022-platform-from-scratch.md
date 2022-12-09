@@ -8,7 +8,7 @@ tags: ["conference", "talks"]
 # Building Platform Engineering from scratch at scale-up
 
 ## Recording
-Coming soon
+[Building Platform Engineering from scratch at scale-up on Øredev YouTube](https://www.youtube.com/watch?v=h_ctV0-K4_A)
 
 ## Slides
 [Building Platform Engineering from scratch at scale-up](https://github.com/Solisol/Solisol.github.io/raw/main/slides/building_platform_from_scratch_oredev_2022.pdf) slides.

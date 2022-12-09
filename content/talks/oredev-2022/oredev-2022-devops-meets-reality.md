@@ -8,7 +8,7 @@ tags: ["conference", "talks"]
 # DevOps meets reality
 
 ## Recording
-Coming soon
+[DevOps meets reality on Øredev YouTube](https://www.youtube.com/watch?v=17cingJPuYw)
 
 ## Slides
 [DevOps meets reality](https://github.com/Solisol/Solisol.github.io/raw/main/slides/devops_meets_reality_oredev_2022.pdf) slides.
