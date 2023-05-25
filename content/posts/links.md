@@ -14,3 +14,4 @@ Here is a list of maybe relevant links from my presentation How We Revolutionize
 * [cert-manager](https://cert-manager.io/docs/)
 * [Argo CD](https://argoproj.github.io/cd/)
 * [Open GitOps](https://opengitops.dev/)
+* [Slides: How we revolutionized Developer Experience with 3.5 Platform Engineers @ NDC Oslo 2023](https://github.com/Solisol/Solisol.github.io/raw/main/slides/how_revo_devex-ndc_oslo_2023.pdf)
